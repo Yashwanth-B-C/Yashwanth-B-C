@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-I'm <b>Yashwanth Gowda B C</b> — a passionate full-stack web developer crafting seamless digital experiences with a blend of logic and design. 🚀
+I'm <b>Yashwanth Gowda B C</b> — Aspiring full-stack developer blending backend logic with visual creativity — learning by building. 🚀
 </p>
 
 ###
